@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677019559366",
+    "firebase_url": "https://platform-a1.firebaseio.com",
+    "project_id": "platform-a1",
+    "storage_bucket": "platform-a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677019559366:android:4758bc509dc0cac9",
+        "android_client_info": {
+          "package_name": "com.porducer.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677019559366-311vjr14rh224bt6a66u16cduhorcooj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRHFC3WAk1wUVYZdPsxf3AEicg7KpJYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677019559366-311vjr14rh224bt6a66u16cduhorcooj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
